@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Cassio Damacena",
+        "cpf": "00000014141",
+        "email": "cassio@email.com",
+        "whatsapp": "12123456789",
+        "address": {
+            "postalcode": "12606470",
+            "street": "Rua Santa Rita de Cássia",
+            "number": "86",
+            "details": "Sobrado branco",
+            "district": "Cruz",
+            "city_state": "Lorena/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "name": "Nicolas Damacena",
+        "cpf": "abc00014141",
+        "email": "nicolas@email.com",
+        "whatsapp": "12123456789",
+        "address": {
+            "postalcode": "12606470",
+            "street": "Rua Santa Rita de Cássia",
+            "number": "86",
+            "details": "Sobrado branco",
+            "district": "Cruz",
+            "city_state": "Lorena/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "name": "Nicolas Damacena",
+        "cpf": "00000014141",
+        "email": "teste@email",
+        "whatsapp": "12123456789",
+        "address": {
+            "postalcode": "12606470",
+            "street": "Rua Santa Rita de Cássia",
+            "number": "86",
+            "details": "Sobrado branco",
+            "district": "Cruz",
+            "city_state": "Lorena/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
